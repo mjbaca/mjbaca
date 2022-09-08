@@ -4,7 +4,7 @@ My name is Matthew Baca, and I am a PhD student studying statistics at the Unive
 
 Currently my interest include: (1) Design of Experiments, (2) incorporating statistical rigor to the Verification and Validation (V&V) process, (3) time series analysis, (4) tool/software development, and (5) mixed effects/regression modeling.
 
-Of the many topics in data science, causal inference is a common term that I keep hearing about.  Other than "X causes Y" I do not know much about causal inference, and I would like to learn more.  I would like to learn about causal inference because I am interested in its application to computer models and simulations.
+Of the many topics in data science, "causal inference", is a common term that I keep hearing about.  Other than "X causes Y" I do not know much about causal inference, and I would like to learn more.  I would like to learn about causal inference because I am interested in its application to computer models and simulations.
 
 <!--
 **mjbaca/mjbaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
