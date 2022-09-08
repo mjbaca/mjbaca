@@ -1,8 +1,10 @@
-### Hello!  
+### Hello and Welcome!  
 
 My name is Matthew Baca and I am a second year PhD students studying statistics at the University of Wisconsin.
 
-I got my Bachelor of Science (BS) in Mathematics from the New Mexico Institute of Mining and Technology (NMT) and my MS in Biostatistics from the Washington University School of Medicine in St. Louis.  After graduate for three years I worked for the Navy at China Lake, where I was doing statistical analysis and tool development in the world of Modeling and Simulation (M&S).
+I got my Bachelor of Science (BS) in Mathematics from the New Mexico Institute of Mining and Technology (NMT) and my Master of Science (MS) in Biostatistics from the Washington University School of Medicine in St. Louis.  After graduate for three years I worked for the Navy at China Lake, where I was doing statistical analysis and tool development in the world of Modeling and Simulation (M&S).
+
+Currently my interest include: (1) Design of Experiments, (2) incorporating statistical rigor to the Verification and Validation (V&V) process, (3) time series analysis, (4) tool/software development, and (5) mixed effects/regression modeling.
 
 <!--
 **mjbaca/mjbaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
