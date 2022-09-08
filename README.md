@@ -1,4 +1,6 @@
-### test 👋
+### Hello!  My name is Matthew Baca and I am a second year PhD students studying statistics at the University of Wisconsin.
+
+
 
 <!--
 **mjbaca/mjbaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
