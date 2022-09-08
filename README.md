@@ -1,6 +1,8 @@
 ### Hello!  My name is Matthew Baca and I am a second year PhD students studying statistics at the University of Wisconsin.
 
+What is your professional preparation and background?
 
+I got my Bachelor of Science (BS) in Mathematics from the New Mexico Institute of Mining and Technology (NMT) and my MS in Biostatistics from the Washington University School of Medicine in St. Louis.  After graduate for three years I worked for the Navy at China Lake, where I was doing statistical analysis and tool development in the world of Modeling and Simulation (M&S).
 
 <!--
 **mjbaca/mjbaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
