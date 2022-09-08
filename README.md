@@ -6,7 +6,7 @@ I got my Bachelor of Science (BS) in Mathematics from the New Mexico Institute o
 
 Currently my interest include: (1) Design of Experiments, (2) incorporating statistical rigor to the Verification and Validation (V&V) process, (3) time series analysis, (4) tool/software development, and (5) mixed effects/regression modeling.
 
-Causal inference is a common term that I keep hearing about.  Other than "X causes Y" or "smoking causes cancer" I do not know much about causal inference.  I would like to learn more about causal inference because I am interested in it application to computer models and simulations.
+Causal inference is a common term that I keep hearing about.  Other than "X causes Y" or "smoking causes cancer" I do not know much about causal inference.  I would like to learn more about causal inference because I am interested in its application to computer models and simulations.
 
 <!--
 **mjbaca/mjbaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
